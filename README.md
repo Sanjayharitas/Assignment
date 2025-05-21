@@ -69,7 +69,8 @@ User enters query + optional context → Embed query → Search top-k → LLM �
 # Sample Input/Output
 Input - CVE + Context(Optional)
 
-# Colab- https://colab.research.google.com/drive/11Jfk_4g_R67usUIQWoKJpiwkE3awQYbV?usp=sharing
+# Colab- 
+https://colab.research.google.com/drive/11Jfk_4g_R67usUIQWoKJpiwkE3awQYbV?usp=sharing
 
 
 ![FinalProject](https://github.com/user-attachments/assets/131081b6-6896-4679-b1f8-ed517b16219c)
