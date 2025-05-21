@@ -39,7 +39,8 @@ Users can ask natural questions about potential threats (e.g., “Is CVE-2024-56
                           └──────────┬─────────────────┘
                                      │
                           ┌──────────▼────────────┐
-                          │ Search for top-k CVEs │
+                          │ Search for top-k CVEs |
+                          │ (Including Internet)  |
                           └──────────┬────────────┘
                                      │
                          ┌───────────▼────────────┐
